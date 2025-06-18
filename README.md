@@ -1,5 +1,5 @@
 
-# Análisis del Índice de Precios al Consumidor (IPC) por Divisiones - Argentina
+# Análisis del Índice de Precios al Consumidor (IPC) por Divisiones - INDEC - Argentina
 
 Este proyecto realiza una limpieza, transformación y preparación de los datos del IPC por divisiones para su uso en herramientas de visualización como Looker Studio o Power BI. Los datos provienen de series publicadas por INDEC y están disponibles como datos abiertos.
 
