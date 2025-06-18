@@ -60,6 +60,8 @@ Esto generará archivos limpios en `data/processed` y formatos compatibles con L
 Datos abiertos del INDEC disponibles en:
 [https://www.indec.gob.ar](https://www.indec.gob.ar)
 
+[Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, y clasificación de grupos. Diciembre de 2016-mayo de 2025](https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_divisiones.csv)
+
 ## Licencia
 
 MIT License
