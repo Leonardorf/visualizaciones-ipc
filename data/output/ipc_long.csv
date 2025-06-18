@@ -1,0 +1,255 @@
+fecha,division,tipo_variacion,valor
+2017-01-01,Prendas de vestir y calzado,variacion_mensual,-1.0
+2017-03-01,Restaurantes y hoteles,variacion_mensual,1.0
+2017-03-01,Salud,variacion_mensual,2.0
+2017-06-01,Educación,variacion_mensual,1.0
+2017-07-01,Bebidas alcohólicas y tabaco,variacion_mensual,3.0
+2017-07-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,2.0
+2017-08-01,Educación,variacion_mensual,2.0
+2017-08-01,Equipamiento y mantenimiento del hogar,variacion_mensual,1.0
+2017-09-01,Equipamiento y mantenimiento del hogar,variacion_mensual,1.0
+2017-09-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,2.0
+2017-10-01,Bebidas alcohólicas y tabaco,variacion_mensual,3.0
+2017-11-01,Transporte,variacion_mensual,3.0
+2017-12-01,Educación,variacion_mensual,0.0
+2018-01-01,Equipamiento y mantenimiento del hogar,variacion_mensual,1.0
+2018-01-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,1.0
+2018-02-01,Recreación y cultura,variacion_mensual,1.0
+2018-04-01,Comunicación,variacion_mensual,1.0
+2018-04-01,Prendas de vestir y calzado,variacion_mensual,4.0
+2018-04-01,Transporte,variacion_mensual,4.0
+2018-04-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,8.0
+2018-05-01,Bienes y servicios varios,variacion_mensual,2.0
+2018-05-01,Prendas de vestir y calzado,variacion_mensual,2.0
+2018-06-01,Equipamiento y mantenimiento del hogar,variacion_mensual,4.0
+2018-07-01,Alimentos y bebidas no alcohólicas,variacion_mensual,4.0
+2018-07-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,1.0
+2018-08-01,Alimentos y bebidas no alcohólicas,variacion_mensual,4.0
+2018-08-01,Transporte,variacion_mensual,4.0
+2018-09-01,Alimentos y bebidas no alcohólicas,variacion_mensual,7.0
+2018-10-01,Prendas de vestir y calzado,variacion_mensual,5.0
+2018-11-01,Comunicación,variacion_mensual,3.0
+2018-12-01,Educación,variacion_mensual,1.0
+2018-12-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,3.0
+2019-02-01,Prendas de vestir y calzado,variacion_mensual,1.0
+2019-03-01,Alimentos y bebidas no alcohólicas,variacion_mensual,6.0
+2019-03-01,Recreación y cultura,variacion_mensual,2.0
+2019-04-01,Bebidas alcohólicas y tabaco,variacion_mensual,1.0
+2019-04-01,Bienes y servicios varios,variacion_mensual,3.0
+2019-05-01,Comunicación,variacion_mensual,2.0
+2019-05-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,4.0
+2019-07-01,Restaurantes y hoteles,variacion_mensual,3.0
+2019-08-01,NIVEL GENERAL,variacion_mensual,4.0
+2019-08-01,Transporte,variacion_mensual,4.0
+2019-09-01,Educación,variacion_mensual,1.0
+2019-09-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,2.0
+2019-10-01,Recreación y cultura,variacion_mensual,2.0
+2019-12-01,Educación,variacion_mensual,2.0
+2019-12-01,Transporte,variacion_mensual,5.0
+2020-01-01,Recreación y cultura,variacion_mensual,5.0
+2020-01-01,Salud,variacion_mensual,-2.0
+2020-02-01,NIVEL GENERAL,variacion_mensual,2.0
+2020-03-01,Bienes y servicios varios,variacion_mensual,2.0
+2020-04-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,0.0
+2020-06-01,Alimentos y bebidas no alcohólicas,variacion_mensual,1.0
+2020-07-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,1.0
+2020-09-01,Alimentos y bebidas no alcohólicas,variacion_mensual,3.0
+2020-11-01,Bebidas alcohólicas y tabaco,variacion_mensual,3.0
+2020-12-01,Comunicación,variacion_mensual,0.0
+2020-12-01,Educación,variacion_mensual,0.0
+2020-12-01,NIVEL GENERAL,variacion_mensual,4.0
+2020-12-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,3.0
+2021-01-01,Bienes y servicios varios,variacion_mensual,2.0
+2021-01-01,Equipamiento y mantenimiento del hogar,variacion_mensual,3.0
+2021-01-01,NIVEL GENERAL,variacion_mensual,4.0
+2021-02-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,2.0
+2021-03-01,Salud,variacion_mensual,4.0
+2021-04-01,Prendas de vestir y calzado,variacion_mensual,6.0
+2021-05-01,Comunicación,variacion_mensual,1.0
+2021-05-01,Transporte,variacion_mensual,6.0
+2021-05-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,2.0
+2021-06-01,Bienes y servicios varios,variacion_mensual,2.0
+2021-06-01,Comunicación,variacion_mensual,7.0
+2021-07-01,NIVEL GENERAL,variacion_mensual,3.0
+2021-08-01,Bebidas alcohólicas y tabaco,variacion_mensual,2.0
+2021-09-01,Prendas de vestir y calzado,variacion_mensual,6.0
+2021-09-01,Transporte,variacion_mensual,3.0
+2021-10-01,Recreación y cultura,variacion_mensual,4.0
+2021-11-01,Bienes y servicios varios,variacion_mensual,2.0
+2021-11-01,Restaurantes y hoteles,variacion_mensual,5.0
+2021-12-01,Educación,variacion_mensual,1.0
+2021-12-01,Recreación y cultura,variacion_mensual,4.0
+2022-03-01,Salud,variacion_mensual,5.0
+2022-04-01,NIVEL GENERAL,variacion_mensual,6.0
+2022-06-01,Bienes y servicios varios,variacion_mensual,5.0
+2022-06-01,Educación,variacion_mensual,2.0
+2022-06-01,Equipamiento y mantenimiento del hogar,variacion_mensual,6.0
+2022-07-01,Alimentos y bebidas no alcohólicas,variacion_mensual,6.0
+2022-08-01,Bebidas alcohólicas y tabaco,variacion_mensual,7.0
+2022-08-01,Educación,variacion_mensual,5.0
+2022-08-01,NIVEL GENERAL,variacion_mensual,7.0
+2022-08-01,Recreación y cultura,variacion_mensual,5.0
+2022-09-01,Equipamiento y mantenimiento del hogar,variacion_mensual,6.0
+2022-12-01,Prendas de vestir y calzado,variacion_mensual,4.0
+2023-01-01,Comunicación,variacion_mensual,8.0
+2023-01-01,NIVEL GENERAL,variacion_mensual,6.0
+2023-01-01,Recreación y cultura,variacion_mensual,9.0
+2023-01-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,8.0
+2023-04-01,Educación,variacion_mensual,5.0
+2023-05-01,Salud,variacion_mensual,9.0
+2023-06-01,Equipamiento y mantenimiento del hogar,variacion_mensual,8.0
+2023-06-01,NIVEL GENERAL,variacion_mensual,6.0
+2023-07-01,Bebidas alcohólicas y tabaco,variacion_mensual,9.0
+2023-07-01,Prendas de vestir y calzado,variacion_mensual,3.0
+2023-07-01,Salud,variacion_mensual,9.0
+2023-07-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,4.0
+2023-10-01,Prendas de vestir y calzado,variacion_mensual,11.0
+2023-11-01,Prendas de vestir y calzado,variacion_mensual,10.0
+2023-11-01,Restaurantes y hoteles,variacion_mensual,12.0
+2024-01-01,Bebidas alcohólicas y tabaco,variacion_mensual,21.0
+2024-01-01,Recreación y cultura,variacion_mensual,24.0
+2024-01-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,14.0
+2024-03-01,Equipamiento y mantenimiento del hogar,variacion_mensual,5.0
+2024-03-01,NIVEL GENERAL,variacion_mensual,11.0
+2024-03-01,Transporte,variacion_mensual,13.0
+2024-04-01,Alimentos y bebidas no alcohólicas,variacion_mensual,6.0
+2024-05-01,Transporte,variacion_mensual,4.0
+2024-06-01,Alimentos y bebidas no alcohólicas,variacion_mensual,3.0
+2024-07-01,NIVEL GENERAL,variacion_mensual,4.0
+2024-07-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,6.0
+2024-08-01,Bebidas alcohólicas y tabaco,variacion_mensual,3.0
+2024-08-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,7.0
+2024-09-01,Comunicación,variacion_mensual,3.0
+2024-09-01,Prendas de vestir y calzado,variacion_mensual,6.0
+2024-10-01,Bebidas alcohólicas y tabaco,variacion_mensual,3.0
+2024-11-01,Bebidas alcohólicas y tabaco,variacion_mensual,4.0
+2024-11-01,Recreación y cultura,variacion_mensual,3.0
+2024-12-01,Comunicación,variacion_mensual,5.0
+2025-01-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_mensual,4.0
+2025-02-01,Equipamiento y mantenimiento del hogar,variacion_mensual,1.0
+2025-04-01,Recreación y cultura,variacion_mensual,4.0
+2025-05-01,Restaurantes y hoteles,variacion_mensual,3.0
+2018-01-01,NIVEL GENERAL,variacion_interanual,25.0
+2018-02-01,Comunicación,variacion_interanual,39.0
+2018-03-01,Educación,variacion_interanual,33.0
+2018-03-01,Recreación y cultura,variacion_interanual,23.0
+2018-03-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_interanual,48.0
+2018-04-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_interanual,51.0
+2018-05-01,Equipamiento y mantenimiento del hogar,variacion_interanual,23.0
+2018-05-01,Transporte,variacion_interanual,30.0
+2018-07-01,Alimentos y bebidas no alcohólicas,variacion_interanual,31.0
+2018-07-01,Comunicación,variacion_interanual,34.0
+2018-07-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_interanual,47.0
+2018-08-01,Transporte,variacion_interanual,45.0
+2018-09-01,Comunicación,variacion_interanual,50.0
+2018-12-01,Equipamiento y mantenimiento del hogar,variacion_interanual,50.0
+2018-12-01,Restaurantes y hoteles,variacion_interanual,39.0
+2019-01-01,Alimentos y bebidas no alcohólicas,variacion_interanual,53.0
+2019-02-01,Equipamiento y mantenimiento del hogar,variacion_interanual,54.0
+2019-03-01,Alimentos y bebidas no alcohólicas,variacion_interanual,64.0
+2019-03-01,Bienes y servicios varios,variacion_interanual,59.0
+2019-03-01,Salud,variacion_interanual,56.0
+2019-04-01,Bienes y servicios varios,variacion_interanual,61.0
+2019-04-01,Equipamiento y mantenimiento del hogar,variacion_interanual,58.0
+2019-04-01,Transporte,variacion_interanual,68.0
+2019-05-01,Recreación y cultura,variacion_interanual,48.0
+2019-07-01,Salud,variacion_interanual,64.0
+2019-08-01,Bienes y servicios varios,variacion_interanual,58.0
+2019-08-01,Recreación y cultura,variacion_interanual,48.0
+2019-09-01,Transporte,variacion_interanual,49.0
+2019-09-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_interanual,51.0
+2019-10-01,Equipamiento y mantenimiento del hogar,variacion_interanual,63.0
+2019-10-01,Prendas de vestir y calzado,variacion_interanual,47.0
+2019-10-01,Recreación y cultura,variacion_interanual,48.0
+2019-11-01,Comunicación,variacion_interanual,61.0
+2019-11-01,Transporte,variacion_interanual,46.0
+2020-01-01,Educación,variacion_interanual,47.0
+2020-02-01,Bebidas alcohólicas y tabaco,variacion_interanual,50.0
+2020-03-01,Equipamiento y mantenimiento del hogar,variacion_interanual,55.0
+2020-04-01,Equipamiento y mantenimiento del hogar,variacion_interanual,50.0
+2020-06-01,Restaurantes y hoteles,variacion_interanual,42.0
+2020-07-01,Alimentos y bebidas no alcohólicas,variacion_interanual,46.0
+2020-07-01,Bebidas alcohólicas y tabaco,variacion_interanual,48.0
+2020-07-01,Bienes y servicios varios,variacion_interanual,44.0
+2020-07-01,Recreación y cultura,variacion_interanual,50.0
+2020-08-01,Educación,variacion_interanual,30.0
+2020-09-01,Prendas de vestir y calzado,variacion_interanual,57.0
+2020-09-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_interanual,15.0
+2020-10-01,Bebidas alcohólicas y tabaco,variacion_interanual,36.0
+2020-11-01,Bienes y servicios varios,variacion_interanual,29.0
+2020-12-01,Prendas de vestir y calzado,variacion_interanual,60.0
+2020-12-01,Recreación y cultura,variacion_interanual,48.0
+2021-02-01,Restaurantes y hoteles,variacion_interanual,41.0
+2021-03-01,Bebidas alcohólicas y tabaco,variacion_interanual,41.0
+2021-03-01,Recreación y cultura,variacion_interanual,52.0
+2021-04-01,Bebidas alcohólicas y tabaco,variacion_interanual,44.0
+2021-04-01,Equipamiento y mantenimiento del hogar,variacion_interanual,52.0
+2021-05-01,Prendas de vestir y calzado,variacion_interanual,70.0
+2021-05-01,Transporte,variacion_interanual,60.0
+2021-06-01,Comunicación,variacion_interanual,28.0
+2021-06-01,Prendas de vestir y calzado,variacion_interanual,65.0
+2021-06-01,Recreación y cultura,variacion_interanual,49.0
+2021-06-01,Salud,variacion_interanual,52.0
+2021-07-01,Educación,variacion_interanual,43.0
+2021-08-01,Educación,variacion_interanual,48.0
+2021-09-01,Recreación y cultura,variacion_interanual,52.0
+2021-10-01,Bebidas alcohólicas y tabaco,variacion_interanual,55.0
+2021-10-01,Educación,variacion_interanual,54.0
+2021-10-01,Equipamiento y mantenimiento del hogar,variacion_interanual,47.0
+2021-11-01,Salud,variacion_interanual,59.0
+2021-12-01,Recreación y cultura,variacion_interanual,47.0
+2022-02-01,Transporte,variacion_interanual,55.0
+2022-03-01,Bienes y servicios varios,variacion_interanual,48.0
+2022-04-01,NIVEL GENERAL,variacion_interanual,58.0
+2022-06-01,Educación,variacion_interanual,59.0
+2022-06-01,NIVEL GENERAL,variacion_interanual,64.0
+2022-06-01,Transporte,variacion_interanual,59.0
+2022-07-01,NIVEL GENERAL,variacion_interanual,71.0
+2022-07-01,Recreación y cultura,variacion_interanual,70.0
+2022-08-01,Alimentos y bebidas no alcohólicas,variacion_interanual,80.0
+2022-08-01,Prendas de vestir y calzado,variacion_interanual,109.0
+2022-08-01,Transporte,variacion_interanual,71.0
+2022-09-01,NIVEL GENERAL,variacion_interanual,83.0
+2022-09-01,Prendas de vestir y calzado,variacion_interanual,118.0
+2022-09-01,Restaurantes y hoteles,variacion_interanual,99.0
+2022-10-01,Educación,variacion_interanual,76.0
+2022-10-01,NIVEL GENERAL,variacion_interanual,88.0
+2022-11-01,Bienes y servicios varios,variacion_interanual,93.0
+2022-12-01,Alimentos y bebidas no alcohólicas,variacion_interanual,95.0
+2023-01-01,Transporte,variacion_interanual,92.0
+2023-03-01,Educación,variacion_interanual,96.0
+2023-04-01,Alimentos y bebidas no alcohólicas,variacion_interanual,115.0
+2023-04-01,Bienes y servicios varios,variacion_interanual,111.0
+2023-04-01,Comunicación,variacion_interanual,81.0
+2023-04-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_interanual,95.0
+2023-07-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_interanual,112.0
+2023-08-01,Bienes y servicios varios,variacion_interanual,117.0
+2023-08-01,Equipamiento y mantenimiento del hogar,variacion_interanual,125.0
+2023-09-01,Equipamiento y mantenimiento del hogar,variacion_interanual,139.0
+2023-11-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_interanual,128.0
+2023-12-01,Bebidas alcohólicas y tabaco,variacion_interanual,180.0
+2023-12-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_interanual,149.0
+2024-01-01,Equipamiento y mantenimiento del hogar,variacion_interanual,285.0
+2024-01-01,Transporte,variacion_interanual,243.0
+2024-03-01,Recreación y cultura,variacion_interanual,285.0
+2024-04-01,Alimentos y bebidas no alcohólicas,variacion_interanual,293.0
+2024-04-01,Prendas de vestir y calzado,variacion_interanual,205.0
+2024-05-01,Restaurantes y hoteles,variacion_interanual,251.0
+2024-08-01,Comunicación,variacion_interanual,320.0
+2024-09-01,Bebidas alcohólicas y tabaco,variacion_interanual,203.0
+2024-09-01,NIVEL GENERAL,variacion_interanual,209.0
+2024-09-01,Salud,variacion_interanual,225.0
+2024-10-01,NIVEL GENERAL,variacion_interanual,193.0
+2024-10-01,Prendas de vestir y calzado,variacion_interanual,130.0
+2024-11-01,Educación,variacion_interanual,180.0
+2024-11-01,NIVEL GENERAL,variacion_interanual,166.0
+2024-11-01,Prendas de vestir y calzado,variacion_interanual,113.0
+2024-11-01,Restaurantes y hoteles,variacion_interanual,163.0
+2024-12-01,Salud,variacion_interanual,119.0
+2025-02-01,Alimentos y bebidas no alcohólicas,variacion_interanual,52.0
+2025-02-01,Educación,variacion_interanual,150.0
+2025-02-01,Recreación y cultura,variacion_interanual,65.0
+2025-03-01,"Vivienda, agua, electricidad, gas y otros combustibles",variacion_interanual,149.0
+2025-04-01,Comunicación,variacion_interanual,53.0
+2025-04-01,Educación,variacion_interanual,88.0
+2025-05-01,Equipamiento y mantenimiento del hogar,variacion_interanual,27.0
